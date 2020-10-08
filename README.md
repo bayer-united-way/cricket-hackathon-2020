@@ -62,19 +62,19 @@ https://teams.microsoft.com/l/channel/19%3a3c00b7f428c245d5babcc8456795c219%40th
 ***
 ## Contributions: 
 
-All code and data used during the hackathon will be maintained as per open-source standards.  Therefore, it is important to understand the open source policies and follow these practices: 
+ - All code and data used during the hackathon will be maintained as per open-source standards.  Therefore, it is important to understand the open source policies and follow these practices: 
 
-Create a repo on GitHub.com that will be made public at the end of the hackathon 
+- Create a repo on GitHub.com that will be made public at the end of the hackathon 
 
-Use only acceptable open source libraries 
+- Use only acceptable open source libraries 
 
-Do NOT copy or use proprietary/company specific source code, libraries, or data unless they have already been open-sourced 
+- Do NOT copy or use proprietary/company specific source code, libraries, or data unless they have already been open-sourced 
 
-Ensure the repo is cleansed of any company-specific information or secrets that could be accidentally exposed 
+- Ensure the repo is cleansed of any company-specific information or secrets that could be accidentally exposed 
 
-Your solution should be production ready with the best user experience for the organizers to host it on the United Way AWS infrastructure. 
+- Your solution should be production ready with the best user experience for the organizers to host it on the United Way AWS infrastructure. 
 
-Organizers will work with the winning teams to deploy and launch the solutions after the event. 
+- Organizers will work with the winning teams to deploy and launch the solutions after the event. 
 
 ***
 ## Judging: 
