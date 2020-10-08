@@ -81,7 +81,7 @@ https://teams.microsoft.com/l/channel/19%3a3c00b7f428c245d5babcc8456795c219%40th
 
 Bayer Crop Science presentations and judging are on Thursday, October 29
 
-![Judging Rubics](https://github.platforms.engineering/united-way/cricket-hackathon/blob/master/judgingrubrics.png "Judging Rubics")
+![Judging Rubics](https://github.com/bayer-united-way/cricket-hackathon-2020/blob/main/judgingrubrics.png "Judging Rubics")
 
 ***
 ## Prizes
